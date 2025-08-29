@@ -63,4 +63,6 @@ MIT License
 
 ## Autor
 Autor: Gabriel Resende
-Ferramentas: Roo Code + gpt-5-mini
+
+## Ferramentas
+Roo Code + gpt-5-mini
