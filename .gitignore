@@ -3,3 +3,4 @@ output/
 *.pyc
 .venv/
 .vscode/
+.pytest_cache/
