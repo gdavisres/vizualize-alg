@@ -1,0 +1,4 @@
+# Python >= 3.8
+matplotlib>=3.0
+pytest>=6.0
+imageio[ffmpeg]>=2.9  # para salvar gifs/mp4 se desejado
